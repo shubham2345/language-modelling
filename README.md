@@ -1,5 +1,9 @@
 # Language Modeling with Transformers
 
+
+Kaggle Competition Link: https://www.kaggle.com/competitions/nlp-243-fall-24-hw-3-language-modeling
+
+
 This repository contains a project focused on implementing a language modeling task using a Transformer-based architecture. The model leverages attention mechanisms, SentencePiece tokenization, and FastText embeddings to predict the next token in a sequence, ultimately evaluating its performance through perplexity.
 
 ## Overview

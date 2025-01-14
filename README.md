@@ -24,11 +24,13 @@ Example sequence:
 
 Predictions:
 
+```bash
 - p(NLP | <s>)
 - p(243 | <s>, NLP)
 - p(is | <s>, NLP, 243)
 - p(the | <s>, NLP, 243, is)
 - p(best | <s>, NLP, 243, is, the)
+```
 
 ## Requirements
 
